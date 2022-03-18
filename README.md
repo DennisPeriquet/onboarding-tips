@@ -41,7 +41,7 @@
 
   ```
   Link to step on registry info site: https://steps.ci.openshift.org/reference/openshift-e2e-test
-  Link to job on registry info site: https://steps.ci.openshift.org/job?org=openshift&repo=release&branch=master&test=e2e-aws-upgrade&variant=nightly-4.11 
+  Link to job on registry info site: https://steps.ci.openshift.org/job?org=openshift&repo=release&branch=master&test=e2e-aws-upgrade&variant=nightly-4.11
   ```
 
   Those links will take you to a rendered step registry where you can navigate (via using more browser tabs) to see what steps are taken in a test and
@@ -86,7 +86,7 @@
     passed using gpg encrytion.  See [GNU Privacy handbook](https://www.gnupg.org/gph/en/manual/x56.html).
   * Adjust your google meet settings esp. for recording things.  Unfortunately, the max resolution is 720 so you will
     need to increase font size if you want to record.
-  * Know how to squash a PR; the first one in [this](https://gist.github.com/DennisPeriquet/d97317e21388cc61525a994b4ebbe663r) is what I
+  * Know how to squash a PR; the first one in [this](https://gist.github.com/DennisPeriquet/d97317e21388cc61525a994b4ebbe663) is what I
     have used successfully.
 
 * Laptops
