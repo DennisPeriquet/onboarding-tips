@@ -86,6 +86,8 @@
     passed using gpg encrytion.  See [GNU Privacy handbook](https://www.gnupg.org/gph/en/manual/x56.html).
   * Adjust your google meet settings esp. for recording things.  Unfortunately, the max resolution is 720 so you will
     need to increase font size if you want to record.
+  * Know how to squash a PR; the first one in [https://gist.github.com/DennisPeriquet/d97317e21388cc61525a994b4ebbe663] is what I
+    have used successfully.
 
 * Laptops
   * The Apple Mac (esp. if you can get the bigger screen) is elegant and stylish but if you want to do real Linux stuff, you'll
